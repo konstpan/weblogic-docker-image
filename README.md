@@ -13,3 +13,5 @@ To build:
 To run:
 
 <code>docker run --name wls -d --rm -p 7001:7001 -p 9002:9002 wls</code>
+
+You can access the AdminServer Web Console at https://localhost:9002/console.
